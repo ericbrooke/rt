@@ -4,7 +4,7 @@ class Feet
   end
 
   def to_s
-    "#{@magnitude} feet"
+    "#{@magnitude} feet    "
   end
 
 end
